@@ -1,0 +1,1 @@
+In this folder contains a python script that will help you decrypt the message for the next clue. However, you need the message along with a key. If you are at this juncture please text the OG(Xavier) for the key. [Send him a screenshot of this note]
